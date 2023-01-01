@@ -5,13 +5,13 @@ Currently W.I.P
 
 ## Features
 
-[] Login
-[] Direct Messages (Encrypted)
-[] Group Chats (Channels)
-[] Contacts
-[] Send Images
-[] Link Previews
-[] Profile Bio
-[] Channel Permissions
-[] Search
-[] Notifications
+- [ ] Login
+- [ ] Direct Messages (Encrypted)
+- [ ] Group Chats (Channels)
+- [ ] Contacts
+- [ ] Send Images
+- [ ] Link Previews
+- [ ] Profile Bio
+- [ ] Channel Permissions
+- [ ] Search
+- [ ] Notifications
