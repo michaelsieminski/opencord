@@ -1,8 +1,14 @@
+const defaultTheme = require('tailwindcss/defaultTheme');
+
 const config = {
 	content: ['./src/**/*.{html,js,svelte,ts}'],
 
 	theme: {
-		extend: {}
+		extend: {
+			fontFamily: {
+				sans: ['Poppins', ...defaultTheme.fontFamily.sans]
+			}
+		}
 	},
 
 	plugins: []
