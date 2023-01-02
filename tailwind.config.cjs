@@ -7,6 +7,9 @@ const config = {
 		extend: {
 			fontFamily: {
 				sans: ['Poppins', ...defaultTheme.fontFamily.sans]
+			},
+			colors: {
+				opencord: '#19E19B'
 			}
 		}
 	},
