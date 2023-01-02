@@ -1,13 +1,22 @@
-# OpenCord
+![OpenCord](art/banner.png)
 
-A censor-free, discord-like web app based on the Nostr Protocol.
-Currently W.I.P
+<h1 style="text-align: center; padding: 2rem 3rem 3rem 3rem;">A censor-free, discord-like web app based on the Nostr Protocol.</h1>
 
-## Features
+<div style="padding: 1rem;">
+    <h2>👀 Currently working on</h2>
 
-- [ ] Login
+- [ ] IndexedDB (Dexie.js)
+- [ ] Login Functionality
+
+</div>
+
+---
+
+<div style="padding: 1rem;">
+    <h2>🤔 Features planned</h2>
+
 - [ ] Direct Messages (Encrypted)
-- [ ] Group Chats (Channels)
+- [ ] Public & Private Group Chats (Channels)
 - [ ] Contacts
 - [ ] Send Images
 - [ ] Link Previews
@@ -15,3 +24,5 @@ Currently W.I.P
 - [ ] Channel Permissions
 - [ ] Search
 - [ ] Notifications
+
+</div>
